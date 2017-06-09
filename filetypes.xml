@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="phtml" type="Native" />
-      <removed_mapping ext="phtml" approved="true" type="PHP" />
-    </extensionMap>
-  </component>
-</application>
