@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26fc0cf9-7c33-4dca-bb5b-f6ca4f7ae7fe" name="test" url="http://crz7.gochipon.net">
+        <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
