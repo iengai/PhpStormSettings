@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53d7515f-d002-468b-9595-5f92870e3de8" name="remote-crz7-mkii" url="http://admin.li.crz7.gochipon.net">
+        <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/li" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
