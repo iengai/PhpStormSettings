@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="phtml" type="Blade" />
+      <mapping pattern="board-list" type="PHP" />
       <removed_mapping ext="phtml" type="PHP" />
       <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
