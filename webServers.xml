@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="831209e9-dd42-4468-9df9-41d905f25441" name="nkdn2-remote" url="http://admin.dev.ninkyo2.gochipon.net">
+        <fileTransfer host="ninkyo2.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/ec2-user" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
