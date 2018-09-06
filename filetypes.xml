@@ -2,18 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="phtml" type="Blade" />
-      <mapping pattern="board-list" type="PHP" />
-      <removed_mapping ext="phtml" type="PHP" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="COMMIT_EDITMSG" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="batch-crontab" type="PLAIN_TEXT" />
-      <mapping pattern="description" type="PLAIN_TEXT" />
+      <removed_mapping ext="phtml" type="Embedded perl" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
-      <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="batch-crontab" type="PLAIN_TEXT" />
       <mapping pattern="modalStamp.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="COMMIT_EDITMSG" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="description" type="PLAIN_TEXT" />
+      <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
