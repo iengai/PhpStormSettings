@@ -13,6 +13,7 @@
       <mapping pattern="description" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="modalStamp.phtml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
