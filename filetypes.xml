@@ -12,8 +12,10 @@
       <mapping pattern="description" type="PLAIN_TEXT" />
       <mapping pattern="newsBannerListControl.phtml" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
-      <mapping pattern="modalStamp.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="app-config-sample" type="PLAIN_TEXT" />
       <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="modalStamp.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="check-server-role" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
