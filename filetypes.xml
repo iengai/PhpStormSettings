@@ -17,9 +17,6 @@
       <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
       <mapping pattern="check-server-role" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
