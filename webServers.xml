@@ -25,7 +25,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ecfbb8cf-ef7c-4402-9b2f-6d73e58178b2" name="wwwsqldesigner" url="http://crz7.gochipon.net">
+      <webServer id="ecfbb8cf-ef7c-4402-9b2f-6d73e58178b2" name="wwwsqldesigner" url="http://sql.li.crz7.gochipon.net">
         <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/li" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
