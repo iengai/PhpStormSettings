@@ -7,11 +7,13 @@
       <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="app-config" type="PLAIN_TEXT" />
+      <mapping pattern="sqldesigner_access_log" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="batch-crontab" type="PLAIN_TEXT" />
       <mapping pattern="description" type="PLAIN_TEXT" />
       <mapping pattern="client_kai" type="PLAIN_TEXT" />
       <mapping pattern="newsBannerListControl.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="sqldesigner_error_log" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="app-config-sample" type="PLAIN_TEXT" />
       <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
