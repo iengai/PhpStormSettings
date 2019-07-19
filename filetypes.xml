@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="phmtl" type="PHP" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="batch-crontab" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
