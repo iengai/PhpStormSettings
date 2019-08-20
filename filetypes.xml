@@ -8,6 +8,7 @@
       <mapping pattern="crz7_error_log" type="PLAIN_TEXT" />
       <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
       <mapping pattern="client_kai" type="PLAIN_TEXT" />
+      <mapping pattern="deckParts" type="PLAIN_TEXT" />
       <mapping pattern="description" type="PLAIN_TEXT" />
       <mapping pattern="newsBannerListControl.phtml" type="PLAIN_TEXT" />
       <mapping pattern="sqldesigner_access_log" type="PLAIN_TEXT" />
