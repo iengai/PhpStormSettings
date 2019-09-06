@@ -1,0 +1,38 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d958b2ea-e12b-4dc3-9901-bcf1c91bbc62" name="remote-static" url="http://crz7.gochipon.net">
+        <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/li" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="53d7515f-d002-468b-9595-5f92870e3de8" name="remote-crz7" url="http://admin.li.crz7.gochipon.net">
+        <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="831209e9-dd42-4468-9df9-41d905f25441" name="nkdn2-remote" url="http://admin.dev.ninkyo2.gochipon.net">
+        <fileTransfer host="ninkyo2.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/ec2-user" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ecfbb8cf-ef7c-4402-9b2f-6d73e58178b2" name="wwwsqldesigner" url="http://sql.li.crz7.gochipon.net">
+        <fileTransfer host="crz7.gochipon.net" port="22" privateKey="$USER_HOME$/.ssh/client_kai" rootFolder="/home/li" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
