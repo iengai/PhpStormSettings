@@ -1,28 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="phmtl" type="PHP" />
-      <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="batch-crontab" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="crz7_error_log" type="PLAIN_TEXT" />
-      <mapping pattern="admin-crontab" type="PLAIN_TEXT" />
-      <mapping pattern="client_kai" type="PLAIN_TEXT" />
-      <mapping pattern="deckParts" type="PLAIN_TEXT" />
-      <mapping pattern="description" type="PLAIN_TEXT" />
-      <mapping pattern="newsBannerListControl.phtml" type="PLAIN_TEXT" />
-      <mapping pattern="sqldesigner_access_log" type="PLAIN_TEXT" />
-      <mapping pattern="app-config-sample" type="PLAIN_TEXT" />
-      <mapping pattern="develop" type="PLAIN_TEXT" />
-      <mapping pattern="sqldesigner_error_log" type="PLAIN_TEXT" />
-      <mapping pattern="app-config" type="PLAIN_TEXT" />
-      <mapping pattern="modalStamp.phtml" type="PLAIN_TEXT" />
-      <mapping pattern="COMMIT_EDITMSG" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="sql.phtml" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="check-server-role" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
