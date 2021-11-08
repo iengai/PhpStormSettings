@@ -1,10 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="crz7.gochipon.net" id="bda146d9-6282-4f28-99a1-c03d92c3c3e3" keyPath="$USER_HOME$/.ssh/client_kai" port="22" customName="remote-static" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="crz7.gochipon.net" id="bda146d9-6282-4f28-99a1-c03d92c3c3e3" keyPath="$USER_HOME$/.ssh/client_kai" port="22" customName="remote-static" nameFormat="CUSTOM">
         <option name="customName" value="remote-static" />
       </sshConfig>
-      <sshConfig host="ninkyo2.gochipon.net" id="85a8e434-ec1e-48f3-9ccf-989920f17598" keyPath="$USER_HOME$/.ssh/client_kai" port="22" customName="nkdn2-remote" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ninkyo2.gochipon.net" id="85a8e434-ec1e-48f3-9ccf-989920f17598" keyPath="$USER_HOME$/.ssh/client_kai" port="22" customName="nkdn2-remote" nameFormat="CUSTOM">
         <option name="customName" value="nkdn2-remote" />
       </sshConfig>
     </configs>
